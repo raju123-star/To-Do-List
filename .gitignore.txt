@@ -1,2 +1,2 @@
-.Ds-Store
+.DS-Store
 node_modules
